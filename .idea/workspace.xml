@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SPLITTER_PROPORTION" value="0.53103447" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="287dd1bd-0d93-4564-ad63-686e95e4d75d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/archive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/classes/class-twentynineteen-svg-icons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/classes/class-twentynineteen-walker-comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/fonts/NonBreakingSpaceOverride.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/fonts/NonBreakingSpaceOverride.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/images/pattern_01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/images/pattern_02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/images/pattern_03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/images/pattern_04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/inc/back-compat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/inc/block-patterns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/inc/color-patterns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/inc/customizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/inc/helper-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/inc/icon-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/inc/template-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/inc/template-tags.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/js/customize-controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/js/customize-preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/js/priority-menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/js/skip-link-focus-fix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/js/touch-keyboard-navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/blocks/_blocks.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/elements/_elements.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/elements/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/elements/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/forms/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/forms/_fields.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/forms/_forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/layout/_layout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/media/_captions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/media/_galleries.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/media/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/mixins/_mixins-master.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/mixins/_utilities.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/modules/_accessibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/modules/_alignments.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/modules/_clearings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/navigation/_links.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/navigation/_menu-footer-navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/navigation/_menu-main-navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/navigation/_menu-social-navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/navigation/_navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/navigation/_next-previous.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/site/_site.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/site/footer/_site-footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/site/header/_site-featured-image.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/site/header/_site-header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/site/primary/_archives.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/site/primary/_comments.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/site/primary/_posts-and-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/site/secondary/_widgets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/typography/_copy.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/typography/_headings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/typography/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/variables-site/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/variables-site/_columns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/variables-site/_fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/variables-site/_structure.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/variables-site/_transitions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/sass/variables-site/_variables-site.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/style-editor-customizer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/style-editor-customizer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/style-editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/style-editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/style-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/template-parts/content/content-excerpt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/template-parts/content/content-none.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/template-parts/content/content-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/template-parts/content/content-single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/template-parts/content/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/template-parts/footer/footer-widgets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/template-parts/header/entry-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/template-parts/header/site-branding.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/template-parts/post/author-bio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentynineteen/template-parts/post/discussion-meta.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/css/editor-style-block-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/css/editor-style-block.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/css/editor-style-classic-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/css/editor-style-classic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/fonts/inter/Inter-italic-var.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/fonts/inter/Inter-upright-var.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-landscape-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-landscape-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-square-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-square-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-three-quarters-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-three-quarters-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-three-quarters-3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/images/2020-three-quarters-4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/js/color-calculations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/js/customize-controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/js/customize-preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/js/customize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/js/editor-script-block.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/assets/js/skip-link-focus-fix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-customize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-non-latin-languages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-script-loader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-separator-control.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-svg-icons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-walker-comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/classes/class-twentytwenty-walker-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/inc/block-patterns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/inc/custom-css.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/inc/starter-content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/inc/svg-icons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/inc/template-tags.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/searchform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/singular.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/style-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/template-parts/content-cover.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/template-parts/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/template-parts/entry-author-bio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/template-parts/entry-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/template-parts/featured-image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/template-parts/footer-menus-widgets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/template-parts/modal-menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/template-parts/modal-search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/template-parts/navigation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/template-parts/pagination.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/templates/template-cover.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwenty/templates/template-full-width.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/.stylelintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/.stylelintrc-css.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/archive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/css/custom-color-overrides.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/css/ie-editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/css/ie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/css/print.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/css/style-dark-mode-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/css/style-dark-mode.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/css/style-editor-customizer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/css/style-editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/images/Daffodils.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/images/Reading.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/images/in-the-bois-de-boulogne.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/images/playing-in-the-sand.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/images/roses-tremieres-hollyhocks-1884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/images/self-portrait-1885.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/images/the-garden-at-bougival-1884.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/images/villa-with-orange-trees-nice.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/images/young-woman-in-mauve.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/js/customize-helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/js/customize-preview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/js/customize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/js/dark-mode-toggler.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/js/editor-dark-mode-support.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/js/editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/js/palette-colorpicker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/js/polyfills.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/js/primary-navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/js/responsive-embeds.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/js/skip-link-focus-fix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/01-settings/file-header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/01-settings/fonts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/01-settings/global.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/02-tools/functions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/02-tools/mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/03-generic/breakpoints.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/03-generic/clearings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/03-generic/normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/03-generic/reset.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/03-generic/vertical-margins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/blockquote.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/forms-editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/forms.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/links.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/04-elements/misc.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/_config.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/audio/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/blocks-editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/blocks.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/button/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/button/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/code/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/code/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/columns/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/columns/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/cover/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/cover/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/file/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/file/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/gallery/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/gallery/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/group/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/group/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/heading/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/heading/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/html/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/image/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/image/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/latest-comments/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/latest-comments/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/latest-posts/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/latest-posts/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/legacy/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/legacy/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/list/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/list/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/media-text/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/media-text/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/navigation/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/navigation/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/paragraph/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/paragraph/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/preformatted/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/preformatted/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/pullquote/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/pullquote/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/quote/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/quote/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/rss/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/rss/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/search/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/search/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/separator/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/separator/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/social-icons/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/social-icons/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/spacer/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/table/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/table/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/tag-clould/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/tag-clould/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/utilities/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/utilities/_font-sizes.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/utilities/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/verse/_editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/verse/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/05-blocks/video/_style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/404.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/archives.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/comments.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/entry.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/footer-navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/header.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/pagination.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/posts-and-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/search.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/single.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/06-components/widgets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/07-utilities/a11y.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/07-utilities/color-palette.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/07-utilities/ie.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/07-utilities/measure.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/07-utilities/print.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/style-dark-mode.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/style-editor.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/assets/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-custom-colors.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-customize-color-control.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-customize-notice-control.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-customize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-dark-mode.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/classes/class-twenty-twenty-one-svg-icons.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/inc/back-compat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/inc/block-patterns.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/inc/block-styles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/inc/custom-css.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/inc/menu-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/inc/starter-content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/inc/template-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/inc/template-tags.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/postcss.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/searchform.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/style-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/content/content-excerpt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/content/content-none.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/content/content-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/content/content-single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/content/content.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-aside.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-audio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-chat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-gallery.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-quote.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-status.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt-video.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/excerpt/excerpt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/footer/footer-widgets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/header/entry-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/header/excerpt-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/header/site-branding.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/header/site-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/header/site-nav.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../twentytwentyone/template-parts/post/author-bio.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.eslintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.stylelintrc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/404.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/archive.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/bootstrap.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/custom-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/customizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/jetpack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/template-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/inc/template-tags.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/bootstrap.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/customizer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/js/navigation.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/languages/urosjunior.pot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phpcs.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/abstracts/_abstracts.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/abstracts/mixins/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/abstracts/variables/_colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/abstracts/variables/_columns.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/abstracts/variables/_structure.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/abstracts/variables/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/elements/_body.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/elements/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/elements/_fields.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/elements/_hr.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/elements/_links.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/elements/_lists.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/elements/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/elements/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/typography/_copy.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/typography/_headings.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/base/typography/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/_components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/comments/_comments.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/content/_posts-and-pages.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/media/_captions.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/media/_galleries.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/media/_media.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/navigation/_navigation.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/components/widgets/_widgets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/generic/_box-sizing.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/generic/_normalize.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layouts/_content-sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layouts/_no-sidebar.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/layouts/_sidebar-content.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/plugins/jetpack/_infinite-scroll.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/plugins/woocommerce/_checkout.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/plugins/woocommerce/_components.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/plugins/woocommerce/_products.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/plugins/woocommerce/_single-product.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/plugins/woocommerce/_tables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/plugins/woocommerce/_widgets.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/style.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/utilities/_accessibility.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sass/utilities/_alignments.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/screenshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sidebar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/single.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-parts/content-none.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-parts/content-page.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-parts/content-search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/template-parts/content.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution>
+      <executable path="composer" />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1qd5UatBYmI9rlLZfi5ks3ifpiU" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="ts.external.directory.path" value="C:\Program Files\JetBrains\PhpStorm 2020.2.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MyAction.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/js/MyAction.js" working-dir="$PROJECT_DIR$/js">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.MyAction.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="287dd1bd-0d93-4564-ad63-686e95e4d75d" name="Default Changelist" comment="" />
+      <created>1617396642752</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617396642752</updated>
+      <workItem from="1617396648022" duration="4914000" />
+      <workItem from="1617445868181" duration="2623000" />
+      <workItem from="1617448523562" duration="12851000" />
+      <workItem from="1617525203177" duration="30792000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="490" y="243" key="#Composer" timestamp="1617396655155">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="490" y="243" key="#Composer/0.0.1360.728@0.0.1360.728" timestamp="1617396655155" />
+    <state x="306" y="42" key="#Inspections" timestamp="1617534409071">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="306" y="42" key="#Inspections/0.0.1360.728@0.0.1360.728" timestamp="1617534409071" />
+    <state x="272" y="0" width="816" height="728" key="#Intentions" timestamp="1617397579189">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="272" y="0" width="816" height="728" key="#Intentions/0.0.1360.728@0.0.1360.728" timestamp="1617397579189" />
+    <state x="434" y="188" key="#Notifications" timestamp="1617449664304">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="434" y="188" key="#Notifications/0.0.1360.728@0.0.1360.728" timestamp="1617449664304" />
+    <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1617456512590">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="134" y="19" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1360.728@0.0.1360.728" timestamp="1617456512590" />
+    <state x="456" y="276" width="447" height="265" key="ComposerInitDialogKey" timestamp="1617449555310">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="456" y="276" width="447" height="265" key="ComposerInitDialogKey/0.0.1360.728@0.0.1360.728" timestamp="1617449555310" />
+    <state x="460" y="119" key="FileChooserDialogImpl" timestamp="1617449550550">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="460" y="119" key="FileChooserDialogImpl/0.0.1360.728@0.0.1360.728" timestamp="1617449550550" />
+    <state width="1361" height="391" key="GridCell.Tab.0.bottom" timestamp="1617484966125">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="391" key="GridCell.Tab.0.bottom/0.0.1360.728@0.0.1360.728" timestamp="1617484966125" />
+    <state width="1361" height="391" key="GridCell.Tab.0.center" timestamp="1617484966125">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="391" key="GridCell.Tab.0.center/0.0.1360.728@0.0.1360.728" timestamp="1617484966125" />
+    <state width="1361" height="391" key="GridCell.Tab.0.left" timestamp="1617484966125">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="391" key="GridCell.Tab.0.left/0.0.1360.728@0.0.1360.728" timestamp="1617484966125" />
+    <state width="1361" height="391" key="GridCell.Tab.0.right" timestamp="1617484966125">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="391" key="GridCell.Tab.0.right/0.0.1360.728@0.0.1360.728" timestamp="1617484966125" />
+    <state width="1361" height="232" key="GridCell.Tab.1.bottom" timestamp="1617484966000">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.1.bottom/0.0.1360.728@0.0.1360.728" timestamp="1617484966000" />
+    <state width="1361" height="232" key="GridCell.Tab.1.center" timestamp="1617484966000">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.1.center/0.0.1360.728@0.0.1360.728" timestamp="1617484966000" />
+    <state width="1361" height="232" key="GridCell.Tab.1.left" timestamp="1617484965999">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.1.left/0.0.1360.728@0.0.1360.728" timestamp="1617484965999" />
+    <state width="1361" height="232" key="GridCell.Tab.1.right" timestamp="1617484966000">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.1.right/0.0.1360.728@0.0.1360.728" timestamp="1617484966000" />
+    <state width="1361" height="232" key="GridCell.Tab.2.bottom" timestamp="1617484966000">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.2.bottom/0.0.1360.728@0.0.1360.728" timestamp="1617484966000" />
+    <state width="1361" height="232" key="GridCell.Tab.2.center" timestamp="1617484966000">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.2.center/0.0.1360.728@0.0.1360.728" timestamp="1617484966000" />
+    <state width="1361" height="232" key="GridCell.Tab.2.left" timestamp="1617484966000">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.2.left/0.0.1360.728@0.0.1360.728" timestamp="1617484966000" />
+    <state width="1361" height="232" key="GridCell.Tab.2.right" timestamp="1617484966000">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.2.right/0.0.1360.728@0.0.1360.728" timestamp="1617484966000" />
+    <state width="1361" height="232" key="GridCell.Tab.3.bottom" timestamp="1617484966001">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.3.bottom/0.0.1360.728@0.0.1360.728" timestamp="1617484966001" />
+    <state width="1361" height="232" key="GridCell.Tab.3.center" timestamp="1617484966001">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.3.center/0.0.1360.728@0.0.1360.728" timestamp="1617484966001" />
+    <state width="1361" height="232" key="GridCell.Tab.3.left" timestamp="1617484966001">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.3.left/0.0.1360.728@0.0.1360.728" timestamp="1617484966001" />
+    <state width="1361" height="232" key="GridCell.Tab.3.right" timestamp="1617484966001">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state width="1361" height="232" key="GridCell.Tab.3.right/0.0.1360.728@0.0.1360.728" timestamp="1617484966001" />
+    <state x="411" y="87" key="NewPhpClassDialog" timestamp="1617460363966">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="411" y="87" key="NewPhpClassDialog/0.0.1360.728@0.0.1360.728" timestamp="1617460363966" />
+    <state x="514" y="287" key="NewPhpFileDialog" timestamp="1617446293208">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="514" y="287" key="NewPhpFileDialog/0.0.1360.728@0.0.1360.728" timestamp="1617446293208" />
+    <state x="181" y="9" key="SettingsEditor" timestamp="1617457719404">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="181" y="9" key="SettingsEditor/0.0.1360.728@0.0.1360.728" timestamp="1617457719404" />
+    <state x="0" y="0" width="1333" height="499" key="dock-window-1" timestamp="1617541850383">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="0" y="0" width="1333" height="499" key="dock-window-1/0.0.1360.728@0.0.1360.728" timestamp="1617541850383" />
+    <state x="397" y="135" key="refactoring.ChangeSignatureDialog" timestamp="1617540152570">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="397" y="135" key="refactoring.ChangeSignatureDialog/0.0.1360.728@0.0.1360.728" timestamp="1617540152570" />
+  </component>
+</project>

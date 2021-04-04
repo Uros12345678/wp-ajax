@@ -1,0 +1,22 @@
+{
+    "name": "frast/wp-aoo",
+    "type": "library",
+    "description": "Ajax request",
+    "version": "1.2.2",
+    "authors": [
+        {
+            "name": "Uros Kovcic",
+            "email": "kowcicuros70@@gmail.com"
+        }
+    ],
+    "require": {
+        "php": "^7.1.3"
+    },
+    "require-dev": {},
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Frast\\": "src/"
+        }
+    }
+}

@@ -1,0 +1,50 @@
+{
+    "packages": [
+        {
+            "name": "frast/wp-aoo",
+            "version": "1.2.2",
+            "version_normalized": "1.2.2.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/Frast42/wp-aoo.git",
+                "reference": "4316d066d9b83fb71ad96a0a9ddb8edf90433492"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/Frast42/wp-aoo/zipball/4316d066d9b83fb71ad96a0a9ddb8edf90433492",
+                "reference": "4316d066d9b83fb71ad96a0a9ddb8edf90433492",
+                "shasum": ""
+            },
+            "require": {
+                "php": "^7.1.3"
+            },
+            "time": "2019-06-01T18:27:25+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "psr-4": {
+                    "Frast\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "François Steinel",
+                    "email": "francois.steinel@gmail.com"
+                }
+            ],
+            "description": "This package aims to handle the Wordpress ajax part in a object oriented way",
+            "homepage": "https://francois-steinel.fr/en/article/wordpress-ajax-an-object-oriented-way",
+            "support": {
+                "issues": "https://github.com/Frast42/wp-aoo/issues",
+                "source": "https://github.com/Frast42/wp-aoo/tree/1.2.2"
+            },
+            "install-path": "../frast/wp-aoo"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}

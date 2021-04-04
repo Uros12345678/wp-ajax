@@ -1,0 +1,18 @@
+{
+    "name": "data/urosjunior",
+    "description": "create wordpress ajax request",
+    "authors": [
+        {
+            "name": "Urosphp",
+            "email": "kowcicuros70@gmail.com"
+        }
+    ],
+    "require": {
+        "frast/wp-aoo": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
